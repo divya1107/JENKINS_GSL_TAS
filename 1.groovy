@@ -1,1 +1,6 @@
-println "hello world"
+node{
+    stage("version check"){
+        
+      bat 'java -version'
+    }
+}
