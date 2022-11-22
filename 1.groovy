@@ -1,6 +1,1 @@
-node{
-    stage("version check"){
-        
-      bat 'java -version'
-    }
-}
+println("hello world")
