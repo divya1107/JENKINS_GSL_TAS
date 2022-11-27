@@ -1,5 +1,5 @@
 package com.tracfone.practise
-import com.tracfone.practise.1.*
+import com.tracfone.practise.*
 
   void print(){
     def printing=new hello()
