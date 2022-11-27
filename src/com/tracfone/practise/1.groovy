@@ -1,6 +1,6 @@
 package com.tracfone.practise
-import com.tracfone.practise.1.*
-import com.tracfone.hello.*
-  void printing(){
-    def printing=new hello()
+import com/tracfone/hello.*
+  void printresult(){
+    def last=new hello()
+    hello.printr()
   }
