@@ -3,6 +3,6 @@ import com.tracfone.hello.*
 
 def call()
 {
-  def 1 = new 1()
-  1.printresult()
+  def hel = new hel()
+  hel.printresult()
 }
