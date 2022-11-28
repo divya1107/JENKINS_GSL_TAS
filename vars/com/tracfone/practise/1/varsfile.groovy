@@ -1,7 +1,8 @@
 import com.tracfone.practise.*
+import com.tracfone.hello.*
 
 def call()
 {
-  def start = new practise()
-  practise.printresult()
+  def start = new 1()
+  start.printresult()
 }
